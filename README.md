@@ -9,7 +9,7 @@ To use the program, follow these steps:
 1. **Compile the program**: Compile the program using a C++ compiler, such as g++:
 
     ```bash
-    g++ -o encryption_program encryption_program.cpp
+    g++ -o encryption_program main.cpp
     ```
 
 2. **Run the compiled program**: Run the compiled program with the following command-line arguments:
