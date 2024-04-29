@@ -1,6 +1,6 @@
 # Encryption and Decryption Program
 
-This program provides functionality for encrypting and decrypting text using two different methods: circular shift encryption (xrot) and expression-based encryption (xplus).
+This program offers functionality for encrypting and decrypting text files using two different methods: circular shift encryption (xrot) and expression-based encryption (xplus).
 
 ## Usage
 
@@ -12,7 +12,7 @@ To use the program, follow these steps:
     g++ -o encryption_program main.cpp
     ```
 
-2. **Run the compiled program**: Run the compiled program with the following command-line arguments:
+2. **Run the compiled program**: Execute the compiled program with the following command-line arguments:
 
     ```bash
     ./encryption_program <Encrypt|Decrypt> <xrot|xplus> <Password> <InputFile> <OutputFile>
