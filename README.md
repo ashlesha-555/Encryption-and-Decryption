@@ -39,4 +39,4 @@ In expression-based encryption, each character in the input text is transformed 
 ### Encrypt using Circular Shift Encryption (xrot):
 
 ```bash
-./encryption_program Encrypt xrot 5 input.txt encrypted_output.txt
+./encryption_program Encrypt xrot 4836 input.txt output.txt
